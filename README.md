@@ -8,15 +8,16 @@ This repository contains six data visualization tasks completed using Python and
 ```
 PlayStore-Data-Analysis/
 │
-├── Task1.ipynb # Bubble Chart
-├── Task2.ipynb # Choropleth Map
-├── Task3.ipynb # Time Series Line Chart
-├── Task4.ipynb # Stacked Area Chart
-├── Task5.ipynb # Grouped Bar Chart
-├── Task6.ipynb # Dual-Axis Chart
+├── Task1_Bubble_Chart.ipynb
+├── Task2_Choropleth_Map.ipynb
+├── Task3_Time_Series.ipynb
+├── Task4_Stacked_Area.ipynb
+├── Task5_Grouped_Bar.ipynb
+├── Task6_Dual_Axis.ipynb
 ├── Play Store Data.csv
 ├── UserReviews.csv
 └── README.md
+
 ```
 
 ## 📈 Tasks Completed
