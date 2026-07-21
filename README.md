@@ -73,6 +73,5 @@ PlayStore-Data-Analysis/
 Recent MCA Graduate | Aspiring Data Analyst | Python Developer
 
 ---
-⭐Thank you for visiting this repository. Feedback and suggestions are always welcome.
 
 ⭐ Thank you for visiting this repository. Feedback and suggestions are always welcome.
